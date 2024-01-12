@@ -67,3 +67,14 @@
 20240109	09:54:51	6dbf1d58-205c-4783-9aac-3a2c890540b2	/new-page.html	GET
 20240109	09:54:51	84818ae0-b045-4025-b1cb-b2ba8347bbb9	/css/style.css	GET
 20240109	09:54:51	51ef9269-8c9f-4b9c-b329-341db42c7144	/img/img1.jpg	GET
+20240112	14:50:27	70724aca-a75d-4f98-8ac9-c1eb2ba2db5e	GET	https://www.google.com	/
+20240112	15:02:39	8c0a4a9d-2164-4443-a4a1-62deb985735d	GET	https://www.google.com	/
+20240112	15:03:42	a04b2988-3fb5-4a87-a5f2-3c89ea59e2a8	GET	https://www.google.com	/
+20240112	15:07:52	f8a6bcea-6414-4936-9085-99f1c519fdd7	GET	undefined	/
+20240112	15:15:22	0a5bf1ff-4a3d-4ee0-a471-4660a3f8eb41	GET	undefined	/
+20240112	15:15:22	cbb80ffa-2eac-4e56-91dd-8433627d5b20	GET	undefined	/css/style.css
+20240112	15:23:55	2669d6f1-9fb6-4c2d-934f-4eacf63dc32e	GET	undefined	/
+20240112	15:24:57	deee8617-42ec-4656-9cbc-33f64fb915a9	GET	undefined	/
+20240112	15:24:57	a6397d8a-91a2-432f-a91f-94638364c408	GET	undefined	/css/style.css
+20240112	15:32:19	c19b04ca-e7d8-48da-a802-adc1c3b03eb5	GET	undefined	/nora
+20240112	15:32:19	ee6b0db4-a088-4d25-8b53-2380134a245c	GET	undefined	/css/style.css
